@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022.09.22 18:57:57.582,=C:\Users\Compik\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2022.09.22 18:57:57.636,=C:\Users\Compik\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2022.09.22 18:58:19.631,C:\Users\Compik\Documents\2 курс. ПОИТ. 3 семестр\Курсовая работа\Course-Project-2022\RegSystemPCH1.h=C:\Users\Compik\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2022.09.22 18:58:19.646,C:\Users\Compik\Documents\2 курс. ПОИТ. 3 семестр\Курсовая работа\Course-Project-2022\Unit2.dfm=C:\Users\Compik\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2022.09.22 18:58:19.646,C:\Users\Compik\Documents\2 курс. ПОИТ. 3 семестр\Курсовая работа\Course-Project-2022\Unit2.cpp=C:\Users\Compik\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2022.09.22 18:58:19.646,C:\Users\Compik\Documents\2 курс. ПОИТ. 3 семестр\Курсовая работа\Course-Project-2022\Unit2.h=C:\Users\Compik\Documents\Embarcadero\Studio\Projects\Unit2.h</Transaction>
+    <Transaction>2022.09.22 18:58:19.661,C:\Users\Compik\Documents\2 курс. ПОИТ. 3 семестр\Курсовая работа\Course-Project-2022\RegSystem.cbproj=C:\Users\Compik\Documents\Embarcadero\Studio\Projects\Project2.cbproj</Transaction>
+    <Transaction>2022.09.22 18:58:41.444,C:\Users\Compik\Documents\2 курс. ПОИТ. 3 семестр\Курсовая работа\Course-Project-2022\Login.h=C:\Users\Compik\Documents\2 курс. ПОИТ. 3 семестр\Курсовая работа\Course-Project-2022\Unit2.h</Transaction>
+    <Transaction>2022.09.22 18:58:41.444,C:\Users\Compik\Documents\2 курс. ПОИТ. 3 семестр\Курсовая работа\Course-Project-2022\Login.cpp=C:\Users\Compik\Documents\2 курс. ПОИТ. 3 семестр\Курсовая работа\Course-Project-2022\Unit2.cpp</Transaction>
+    <Transaction>2022.09.22 18:58:41.444,C:\Users\Compik\Documents\2 курс. ПОИТ. 3 семестр\Курсовая работа\Course-Project-2022\Login.dfm=C:\Users\Compik\Documents\2 курс. ПОИТ. 3 семестр\Курсовая работа\Course-Project-2022\Unit2.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
